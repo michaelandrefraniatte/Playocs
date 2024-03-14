@@ -1,0 +1,4 @@
+// Enable EchoBoost
+True
+//Capture device is first device
+False
